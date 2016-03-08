@@ -1,0 +1,3 @@
+Para selecionar uma tabela: "SELECT * FROM topkills WHERE jogador = '" + player + "'"
+Para dar update em uma tabela: "UPDATE topkills SET kills='"+kills+"', mortes='"+mortes+"' WHERE jogador='"+player+"';"
+Para criar uma tabela: "INSERT INTO topkills (jogador,kills,mortes) VALUES ('" + player + "', '"+ i +"', '"+ i +"')"
